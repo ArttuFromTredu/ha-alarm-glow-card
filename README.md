@@ -1,4 +1,5 @@
 # alarm-glow-card
+<img width="1594" height="1262" alt="image" src="https://github.com/user-attachments/assets/65b2fd26-04cc-40ab-8395-16c45715e7c4" />
 
 A zero-dependency Home Assistant custom Lovelace card that projects a soft, pulsing glow around the entire browser viewport when an alarm helper is active. The glow colour is driven by a separate `input_select`, and all transitions — turn on, turn off, and colour changes — are smoothly animated.
 
